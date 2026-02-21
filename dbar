@@ -1,0 +1,6 @@
+#include <stdlib.h>
+
+int main() {
+    system("kitty --class dbar -e ./dbar_code");
+    return 0;
+}
